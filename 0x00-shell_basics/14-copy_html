@@ -1,2 +1,2 @@
 #!/bin/bash
-cp v source_directory/*.html destination_directory
+cp -u source_directory/*.html destination_directory
