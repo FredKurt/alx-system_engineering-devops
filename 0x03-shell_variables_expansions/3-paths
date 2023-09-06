@@ -1,2 +1,2 @@
 #!/bin/bash
-find /path/to/directory -type f | wc -l
+echo "${path_dirs[@]}"
