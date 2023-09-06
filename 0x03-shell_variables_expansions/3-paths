@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | sed s/:/\\n/g | wc -l
+find /path/to/directory -type f | wc -l
