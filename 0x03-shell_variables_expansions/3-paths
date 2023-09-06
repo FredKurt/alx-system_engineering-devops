@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$((count + 1))"
+find . -type f -print | wc -l
